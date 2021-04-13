@@ -19,7 +19,10 @@
     "@angular/platform-browser": "~11.2.9",
     "@angular/platform-browser-dynamic": "~11.2.9",
     "@angular/router": "~11.2.9",
+    "@popperjs/core": "^2.9.2",
     "bootstrap": "^5.0.0-beta3",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
@@ -30,6 +33,7 @@
     "@angular/compiler-cli": "~11.2.9",
     "@types/jasmine": "~3.6.0",
     "@types/node": "^12.11.1",
+    "ajv": "^6.9.1",
     "codelyzer": "^6.0.0",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
@@ -42,5 +46,17 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.1.5"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShindoToshizo/reservation-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShindoToshizo/reservation-app/issues"
+  },
+  "homepage": "https://github.com/ShindoToshizo/reservation-app#readme"
 }
